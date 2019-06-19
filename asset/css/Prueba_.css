@@ -1,0 +1,257 @@
+.label-success {
+    background: url(http://localhost/proyecto/planificate/assets/img/backgrounds/carita.png) no-repeat;
+    background-size: contain;
+	position:absolute;
+	width: 131px;
+	height: 35px;
+	color: black;
+}
+
+
+.label-success2 {
+    background-color: #5cb85c;
+}
+
+.label-success5 {
+    background-color: #1528e8;
+}
+
+.label-success6 {
+    background-color: #ece200;
+}
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+
+.label-danger {
+    background: url(http://localhost/proyecto/planificate/assets/img/backgrounds/carita1.png) no-repeat;
+    background-size: contain;
+	position:absolute;
+	width: 131px;
+	height: 35px;
+	color: black;
+}
+
+
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 100%;
+    font-weight: bold;
+    line-height: 1;
+color: #1b1919; 
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+  /*   border-radius: 9.25em; */
+}
+
+.label-danger3 {
+    background-color: #ff1e17;;
+}
+
+.label-danger4 {
+    background-color: #ff1e17;;
+}
+
+.label-danger2 {
+    background: url(http://localhost/proyecto/planificate/assets/img/backgrounds/carita2.png) no-repeat;
+    background-size: contain;
+	position:absolute;
+	width: 131px;
+	height: 35px;
+	color: black;
+}
+
+
+.panel {
+    margin-bottom: 3px;
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #2f2d2d;
+    background-color: rgba(234, 40, 40, 0);
+/* 	background: url(http://localhost/proyecto/planificate/assets/img/backgrounds/4.jpg) no-repeat; */
+ 
+   
+	}
+
+.btn-success {
+    color: #ffffff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    margin-left: 39px;
+	
+}
+.btn-primary2 {
+    color: #ffffff;
+    background-color: #ff1d1d;
+    border-color: #ff1d1d;
+    margin-left: 110px;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    margin-left: 50px;
+
+}
+
+.alert1 {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    margin-left: -104px;
+    margin-right: -98px;
+    margin-top: 119px;
+}
+
+.btn-info {
+    color: #ffffff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    margin-left: 50%;
+    
+}
+.text-muted {
+    color: #000000;
+    margin-left: 1050px;
+        font-weight: bold;
+        /*font: 130% sans-serif;*/
+        width: 200px;
+    margin-top: -18px;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+        font-weight: bold;
+        font: 106% sans-serif;
+        font-weight: bold;
+}
+
+.prueba{
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    /* margin: 29px; */
+    margin-right: 40px;
+    margin-left: -429px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #080808;
+    margin-left: 480px;
+ font-weight: bold;
+ font: 130% sans-serif;
+ margin-top: -15px;
+}
+
+
+.navbar-nav>li>.dropdown-menu {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    margin-left: 341px;
+}
+.navbar-nav>li>.dropdown-menu2 {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    margin-left: 341px;
+}
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 21px;
+    margin-left: 500px;
+}
+
+.act{
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    margin-left: 200px;
+}
+
+h1, h2, h3 {
+    margin-top: 5px;
+    margin-bottom: 9px;
+    margin-left: 38%;
+     font-weight: bold;
+     margin-top: -94px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 9px 16px;
+    text-decoration: none;
+    display: block;
+    margin-left: 24px;
+}
+
+.navbar-inverse {
+    background-color: #ffffff;
+    border-color: #080808;
+background-image:url(http://localhost/proyecto/planificate/img/cintillo_teso.png ) ;
+ background-repeat: no-repeat, repeat;
+   /*     background-position: 150px;*/
+}
+
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    line-height: 1;
+    margin-top: 92px;
+}
+
+/*.th {
+    text-align: CENTER;
+   /* background-image:url(http://localhost/proyecto/planificate/img/cintillo_teso.png ) 
+}
+*/
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 15px;
+    margin-top: 13px;
+}
+
+.btn-block {
+    display: block;
+    width: 105%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.btn-danger {
+    color: #000000;
+    /* background-color: #d9534f; */
+    border-color: #d43f3a;
+margin-left: 5px;
+    margin-top: 6px;
+ 
+    border: -78px;
+}
